@@ -1,5 +1,9 @@
 # Cracking the Coding Interview
-* Questions and Ansers
-** Java
-** Go
-** C++
+
+Questions and Answers
+
+Languages |
+--- |
+Java |
+Go |
+C++ |
