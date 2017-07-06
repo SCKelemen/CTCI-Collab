@@ -1,8 +1,8 @@
-# Cracking the Coding Interview
+# [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) - Algorithm and question collaboration
 
-Questions and Answers
+Please see [Questions](https://github.com/tdorn/CTCI-Collab/tree/Questions) branch for more information!
 
-Person |Languages |
+Person |Language |
 --- | --- |
 Tyler | Java |
 Sam | Go |
