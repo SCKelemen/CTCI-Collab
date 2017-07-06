@@ -2,8 +2,8 @@
 
 Questions and Answers
 
-Languages |
---- |
-Java |
-Go |
-C++ |
+Person |Languages |
+--- | --- |
+Tyler | Java |
+Sam | Go |
+Sean | ??? |
